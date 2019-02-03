@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545126942 source:c:\users\celestine y leoncio\documents\proyecto codeblock\juego\main.cpp
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+
